@@ -1,8 +1,8 @@
 ---
 name: Hata Bildir
 about: Hatayı çözmemize yardımcı olun
-title: ''
-labels: ''
+title: "[BUG]"
+labels: bug
 assignees: ''
 
 ---
