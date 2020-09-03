@@ -1,8 +1,8 @@
 ---
 name: Yeni Özellik Talebi
 about: Bu proje için bir fikir önerin
-title: ''
-labels: ''
+title: "[OZELLIK]"
+labels: enhancement
 assignees: ''
 
 ---
